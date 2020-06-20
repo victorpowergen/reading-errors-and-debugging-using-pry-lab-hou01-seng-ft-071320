@@ -1,6 +1,6 @@
 # don't forget to add: require 'pry'
 
-def snake_it_up.to_i(string)
+def snake_it_up(string.to_i)
   if string[0] == "s"
     10 * "s" + string
   else
